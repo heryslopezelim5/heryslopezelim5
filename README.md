@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Herys
 
-<!--
-**heryslopezelim5/heryslopezelim5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Full Stack** con enfoque en crear aplicaciones web escalables y limpias.  
+⚡ Apasionado por escribir código claro, minimalista y orientado a buenas prácticas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+- **Frontend:** Angular, React, JavaScript (ES6+), TypeScript, HTML5, CSS3, PrimeNG, PrimeFlex  
+- **Backend:** Node.js, NestJS, TypeORM, PostgreSQL  
+- **Herramientas:** Git, Docker, Postman  
+
+---
+
+## 🌐 Encuéntrame en
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/herys-lopez-337b081bb)  
+
+---
+✨ _"El código limpio es la mejor carta de presentación de un desarrollador."_  
