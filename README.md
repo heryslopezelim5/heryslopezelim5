@@ -13,7 +13,6 @@
 ---
 
 ## 🌐 Encuéntrame en
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/herys-lopez-337b081bb)  
-
+- LinkedIn: [linkedin.com/in/herys-lopez-337b081bb](https://www.linkedin.com/in/herys-lopez-337b081bb)  
 ---
 ✨ _"El código limpio es la mejor carta de presentación de un desarrollador."_  
