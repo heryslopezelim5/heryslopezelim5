@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 Tecnologías
-- **Frontend:** Angular, React, JavaScript (ES6+), TypeScript, HTML5, CSS3, PrimeNG, PrimeFlex  
+- **Frontend:** Angular, JavaScript, TypeScript, HTML5, CSS3, PrimeNG, PrimeFlex  
 - **Backend:** Node.js, NestJS, TypeORM, PostgreSQL  
-- **Herramientas:** Git, Docker, Postman  
+- **Herramientas:** Git, Postman  
 
 ---
 
